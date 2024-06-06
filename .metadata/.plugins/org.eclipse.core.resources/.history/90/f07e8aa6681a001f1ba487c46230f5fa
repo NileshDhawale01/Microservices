@@ -1,0 +1,11 @@
+package com.nsd.service_one.controllers;
+
+/**
+ * @author Nilesh Dhawale
+ * @since 25 April 2024
+ * @version 1.0
+ *
+ */
+public class ServiceOneController {
+
+}

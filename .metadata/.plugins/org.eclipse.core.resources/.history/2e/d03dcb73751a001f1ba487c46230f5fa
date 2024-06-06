@@ -1,0 +1,2 @@
+spring.application.name=service_registery
+server.port= 8082

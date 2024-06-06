@@ -1,0 +1,5 @@
+package com.nsd.service_one.config;
+
+public interface ServiceTwoConnect {
+
+}

@@ -1,0 +1,8 @@
+package com.nsd.service_one.config;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient("serviceName")
+public interface ServiceTwoConnect {
+
+}
